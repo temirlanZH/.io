@@ -6,10 +6,10 @@
 Description(Hi Everyone! I'M Zhanatbek Temirlan Front-End Developer With Over 3 Months Experience. Web Applications, Figma Development.)
 # SOCIAL Networks
 
-## Facebook - temirlanzh@facebook
+## Facebook - https://web.facebook.com/profile.php?id=100076560672572
 
-## GitHub - temirlanZH@github
+## GitHub - https://github.com/temirlanZH
 
-## Instagram - qhuauzh@instagram
+## Instagram - https://www.instagram.com/qhuauzh/
 
-## Linkedin - Temirlan@linkedin
+## Linkedin - https://www.linkedin.com/in/temirlan-zhanatbek-14572322a/
